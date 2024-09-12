@@ -1,0 +1,326 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\AGPWeb\\AGPWeb\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{D7DD39BC-73AD-4B0F-B3FB-838CA5710EB4}|AGPWeb.csproj|d:\\agpweb\\agpweb\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D7DD39BC-73AD-4B0F-B3FB-838CA5710EB4}|AGPWeb.csproj|solutionrelative:controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D7DD39BC-73AD-4B0F-B3FB-838CA5710EB4}|AGPWeb.csproj|d:\\agpweb\\agpweb\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D7DD39BC-73AD-4B0F-B3FB-838CA5710EB4}|AGPWeb.csproj|solutionrelative:views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D7DD39BC-73AD-4B0F-B3FB-838CA5710EB4}|AGPWeb.csproj|d:\\agpweb\\agpweb\\helpers\\general\\integerextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D7DD39BC-73AD-4B0F-B3FB-838CA5710EB4}|AGPWeb.csproj|solutionrelative:helpers\\general\\integerextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D7DD39BC-73AD-4B0F-B3FB-838CA5710EB4}|AGPWeb.csproj|d:\\agpweb\\agpweb\\helpers\\general\\sessionhelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D7DD39BC-73AD-4B0F-B3FB-838CA5710EB4}|AGPWeb.csproj|solutionrelative:helpers\\general\\sessionhelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D7DD39BC-73AD-4B0F-B3FB-838CA5710EB4}|AGPWeb.csproj|d:\\agpweb\\agpweb\\models\\db\\dbentities.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D7DD39BC-73AD-4B0F-B3FB-838CA5710EB4}|AGPWeb.csproj|solutionrelative:models\\db\\dbentities.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D7DD39BC-73AD-4B0F-B3FB-838CA5710EB4}|AGPWeb.csproj|d:\\agpweb\\agpweb\\models\\db\\mydatainitializer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D7DD39BC-73AD-4B0F-B3FB-838CA5710EB4}|AGPWeb.csproj|solutionrelative:models\\db\\mydatainitializer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D7DD39BC-73AD-4B0F-B3FB-838CA5710EB4}|AGPWeb.csproj|d:\\agpweb\\agpweb\\helpers\\custom\\tbllogin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D7DD39BC-73AD-4B0F-B3FB-838CA5710EB4}|AGPWeb.csproj|solutionrelative:helpers\\custom\\tbllogin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D7DD39BC-73AD-4B0F-B3FB-838CA5710EB4}|AGPWeb.csproj|d:\\agpweb\\agpweb\\startup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D7DD39BC-73AD-4B0F-B3FB-838CA5710EB4}|AGPWeb.csproj|solutionrelative:startup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D7DD39BC-73AD-4B0F-B3FB-838CA5710EB4}|AGPWeb.csproj|d:\\agpweb\\agpweb\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D7DD39BC-73AD-4B0F-B3FB-838CA5710EB4}|AGPWeb.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D7DD39BC-73AD-4B0F-B3FB-838CA5710EB4}|AGPWeb.csproj|d:\\agpweb\\agpweb\\migrations\\dbcontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D7DD39BC-73AD-4B0F-B3FB-838CA5710EB4}|AGPWeb.csproj|solutionrelative:migrations\\dbcontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D7DD39BC-73AD-4B0F-B3FB-838CA5710EB4}|AGPWeb.csproj|d:\\agpweb\\agpweb\\models\\db\\dbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D7DD39BC-73AD-4B0F-B3FB-838CA5710EB4}|AGPWeb.csproj|solutionrelative:models\\db\\dbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D7DD39BC-73AD-4B0F-B3FB-838CA5710EB4}|AGPWeb.csproj|d:\\agpweb\\agpweb\\helpers\\general\\constants.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D7DD39BC-73AD-4B0F-B3FB-838CA5710EB4}|AGPWeb.csproj|solutionrelative:helpers\\general\\constants.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D7DD39BC-73AD-4B0F-B3FB-838CA5710EB4}|AGPWeb.csproj|d:\\agpweb\\agpweb\\models\\commonmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D7DD39BC-73AD-4B0F-B3FB-838CA5710EB4}|AGPWeb.csproj|solutionrelative:models\\commonmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D7DD39BC-73AD-4B0F-B3FB-838CA5710EB4}|AGPWeb.csproj|d:\\agpweb\\agpweb\\helpers\\general\\common.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D7DD39BC-73AD-4B0F-B3FB-838CA5710EB4}|AGPWeb.csproj|solutionrelative:helpers\\general\\common.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D7DD39BC-73AD-4B0F-B3FB-838CA5710EB4}|AGPWeb.csproj|d:\\agpweb\\agpweb\\controllers\\cmscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D7DD39BC-73AD-4B0F-B3FB-838CA5710EB4}|AGPWeb.csproj|solutionrelative:controllers\\cmscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D7DD39BC-73AD-4B0F-B3FB-838CA5710EB4}|AGPWeb.csproj|d:\\agpweb\\agpweb\\controllers\\basecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D7DD39BC-73AD-4B0F-B3FB-838CA5710EB4}|AGPWeb.csproj|solutionrelative:controllers\\basecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D7DD39BC-73AD-4B0F-B3FB-838CA5710EB4}|AGPWeb.csproj|d:\\agpweb\\agpweb\\migrations\\20240911211919_addtables.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D7DD39BC-73AD-4B0F-B3FB-838CA5710EB4}|AGPWeb.csproj|solutionrelative:migrations\\20240911211919_addtables.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D7DD39BC-73AD-4B0F-B3FB-838CA5710EB4}|AGPWeb.csproj|d:\\agpweb\\agpweb\\migrations\\20240911211919_addtables.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D7DD39BC-73AD-4B0F-B3FB-838CA5710EB4}|AGPWeb.csproj|solutionrelative:migrations\\20240911211919_addtables.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D7DD39BC-73AD-4B0F-B3FB-838CA5710EB4}|AGPWeb.csproj|d:\\agpweb\\agpweb\\helpers\\custom\\result.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D7DD39BC-73AD-4B0F-B3FB-838CA5710EB4}|AGPWeb.csproj|solutionrelative:helpers\\custom\\result.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 7,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "D:\\AGPWeb\\AGPWeb\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "D:\\AGPWeb\\AGPWeb\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAAHgBAAAAAAAAAAAcwKUBAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-12T13:03:13.086Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "tbllogin.cs",
+              "DocumentMoniker": "D:\\AGPWeb\\AGPWeb\\Helpers\\Custom\\tbllogin.cs",
+              "RelativeDocumentMoniker": "Helpers\\Custom\\tbllogin.cs",
+              "ToolTip": "D:\\AGPWeb\\AGPWeb\\Helpers\\Custom\\tbllogin.cs",
+              "RelativeToolTip": "Helpers\\Custom\\tbllogin.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-12T13:03:12.531Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Startup.cs",
+              "DocumentMoniker": "D:\\AGPWeb\\AGPWeb\\Startup.cs",
+              "RelativeDocumentMoniker": "Startup.cs",
+              "ToolTip": "D:\\AGPWeb\\AGPWeb\\Startup.cs",
+              "RelativeToolTip": "Startup.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-12T13:03:09.864Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "SessionHelper.cs",
+              "DocumentMoniker": "D:\\AGPWeb\\AGPWeb\\Helpers\\General\\SessionHelper.cs",
+              "RelativeDocumentMoniker": "Helpers\\General\\SessionHelper.cs",
+              "ToolTip": "D:\\AGPWeb\\AGPWeb\\Helpers\\General\\SessionHelper.cs",
+              "RelativeToolTip": "Helpers\\General\\SessionHelper.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-12T13:03:06.568Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\AGPWeb\\AGPWeb\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "D:\\AGPWeb\\AGPWeb\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-12T13:03:05.882Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "MyDataInitializer.cs",
+              "DocumentMoniker": "D:\\AGPWeb\\AGPWeb\\Models\\DB\\MyDataInitializer.cs",
+              "RelativeDocumentMoniker": "Models\\DB\\MyDataInitializer.cs",
+              "ToolTip": "D:\\AGPWeb\\AGPWeb\\Models\\DB\\MyDataInitializer.cs",
+              "RelativeToolTip": "Models\\DB\\MyDataInitializer.cs",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAAAAIAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-12T13:03:04.949Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "IntegerExtensions.cs",
+              "DocumentMoniker": "D:\\AGPWeb\\AGPWeb\\Helpers\\General\\IntegerExtensions.cs",
+              "RelativeDocumentMoniker": "Helpers\\General\\IntegerExtensions.cs",
+              "ToolTip": "D:\\AGPWeb\\AGPWeb\\Helpers\\General\\IntegerExtensions.cs",
+              "RelativeToolTip": "Helpers\\General\\IntegerExtensions.cs",
+              "ViewState": "AgIAABgAAAAAAAAAAAAwwCUAAABdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-12T13:03:04.092Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "D:\\AGPWeb\\AGPWeb\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "Controllers\\HomeController.cs",
+              "ToolTip": "D:\\AGPWeb\\AGPWeb\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "Controllers\\HomeController.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABUAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-12T13:03:02.237Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "DBEntities.cs",
+              "DocumentMoniker": "D:\\AGPWeb\\AGPWeb\\Models\\DB\\DBEntities.cs",
+              "RelativeDocumentMoniker": "Models\\DB\\DBEntities.cs",
+              "ToolTip": "D:\\AGPWeb\\AGPWeb\\Models\\DB\\DBEntities.cs",
+              "RelativeToolTip": "Models\\DB\\DBEntities.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAMAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-12T13:03:00.414Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "DBContextModelSnapshot.cs",
+              "DocumentMoniker": "D:\\AGPWeb\\AGPWeb\\Migrations\\DBContextModelSnapshot.cs",
+              "RelativeDocumentMoniker": "Migrations\\DBContextModelSnapshot.cs",
+              "ToolTip": "D:\\AGPWeb\\AGPWeb\\Migrations\\DBContextModelSnapshot.cs",
+              "RelativeToolTip": "Migrations\\DBContextModelSnapshot.cs",
+              "ViewState": "AgIAAEoAAAAAAAAAAAAowGwAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-12T13:02:55.603Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "DBContext.cs",
+              "DocumentMoniker": "D:\\AGPWeb\\AGPWeb\\Models\\DB\\DBContext.cs",
+              "RelativeDocumentMoniker": "Models\\DB\\DBContext.cs",
+              "ToolTip": "D:\\AGPWeb\\AGPWeb\\Models\\DB\\DBContext.cs",
+              "RelativeToolTip": "Models\\DB\\DBContext.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAAAAcAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-12T13:02:54.839Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Constants.cs",
+              "DocumentMoniker": "D:\\AGPWeb\\AGPWeb\\Helpers\\General\\Constants.cs",
+              "RelativeDocumentMoniker": "Helpers\\General\\Constants.cs",
+              "ToolTip": "D:\\AGPWeb\\AGPWeb\\Helpers\\General\\Constants.cs",
+              "RelativeToolTip": "Helpers\\General\\Constants.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-12T13:02:54.248Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "CommonModel.cs",
+              "DocumentMoniker": "D:\\AGPWeb\\AGPWeb\\Models\\CommonModel.cs",
+              "RelativeDocumentMoniker": "Models\\CommonModel.cs",
+              "ToolTip": "D:\\AGPWeb\\AGPWeb\\Models\\CommonModel.cs",
+              "RelativeToolTip": "Models\\CommonModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-12T13:02:51.71Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Common.cs",
+              "DocumentMoniker": "D:\\AGPWeb\\AGPWeb\\Helpers\\General\\Common.cs",
+              "RelativeDocumentMoniker": "Helpers\\General\\Common.cs",
+              "ToolTip": "D:\\AGPWeb\\AGPWeb\\Helpers\\General\\Common.cs",
+              "RelativeToolTip": "Helpers\\General\\Common.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-12T13:02:47.725Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "CMSController.cs",
+              "DocumentMoniker": "D:\\AGPWeb\\AGPWeb\\Controllers\\CMSController.cs",
+              "RelativeDocumentMoniker": "Controllers\\CMSController.cs",
+              "ToolTip": "D:\\AGPWeb\\AGPWeb\\Controllers\\CMSController.cs",
+              "RelativeToolTip": "Controllers\\CMSController.cs",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAAAAQAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-12T13:02:46.413Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "BaseController.cs",
+              "DocumentMoniker": "D:\\AGPWeb\\AGPWeb\\Controllers\\BaseController.cs",
+              "RelativeDocumentMoniker": "Controllers\\BaseController.cs",
+              "ToolTip": "D:\\AGPWeb\\AGPWeb\\Controllers\\BaseController.cs",
+              "RelativeToolTip": "Controllers\\BaseController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-12T13:02:43.438Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "20240911211919_addtables.Designer.cs",
+              "DocumentMoniker": "D:\\AGPWeb\\AGPWeb\\Migrations\\20240911211919_addtables.Designer.cs",
+              "RelativeDocumentMoniker": "Migrations\\20240911211919_addtables.Designer.cs",
+              "ToolTip": "D:\\AGPWeb\\AGPWeb\\Migrations\\20240911211919_addtables.Designer.cs",
+              "RelativeToolTip": "Migrations\\20240911211919_addtables.Designer.cs",
+              "ViewState": "AgIAAE0AAAAAAAAAAAAowG8AAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-12T13:02:39.294Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "20240911211919_addtables.cs",
+              "DocumentMoniker": "D:\\AGPWeb\\AGPWeb\\Migrations\\20240911211919_addtables.cs",
+              "RelativeDocumentMoniker": "Migrations\\20240911211919_addtables.cs",
+              "ToolTip": "D:\\AGPWeb\\AGPWeb\\Migrations\\20240911211919_addtables.cs",
+              "RelativeToolTip": "Migrations\\20240911211919_addtables.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAAAAUAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-12T13:02:36.984Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "Result.cs",
+              "DocumentMoniker": "D:\\AGPWeb\\AGPWeb\\Helpers\\Custom\\Result.cs",
+              "RelativeDocumentMoniker": "Helpers\\Custom\\Result.cs",
+              "ToolTip": "D:\\AGPWeb\\AGPWeb\\Helpers\\Custom\\Result.cs",
+              "RelativeToolTip": "Helpers\\Custom\\Result.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-12T13:02:04.329Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
