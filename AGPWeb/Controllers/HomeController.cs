@@ -3,16 +3,17 @@ using Microsoft.EntityFrameworkCore;
 using System.Diagnostics;
 using AGPWeb.Models.DB;
 using AGPWeb.Helpers.General;
+using Microsoft.AspNetCore.SignalR;
 
 namespace AGPWeb.Controllers
 {
-    public class HomeController : Controller
+    public class HomeController : PublicBaseController
     {
         private readonly DBContext _dbContext;
         private readonly IWebHostEnvironment _hostingEnvironment;
 
-        public HomeController(IWebHostEnvironment hostingEnvironment, DbContextOptions<DBContext> dbOptions )
-        {
+        public HomeController(IWebHostEnvironment hostingEnvironment, DbContextOptions<DBContext> dbOptions ) : base(dbOptions, hostingEnvironment)
+		{
             _hostingEnvironment = hostingEnvironment;
             _dbContext = new DBContext(dbOptions);
         }

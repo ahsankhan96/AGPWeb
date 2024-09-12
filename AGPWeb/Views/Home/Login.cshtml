@@ -83,8 +83,9 @@
                     }).show();
                 }
             },
-            error: function () {
-                console.error('An error occurred. Please try again.');
+            error: function (jqXHR, textStatus, errorThrown) {
+                console.error('Error:', textStatus, errorThrown);
+                console.error(jqXHR.responseText); // This will give detailed error information
             }
         });
     });
