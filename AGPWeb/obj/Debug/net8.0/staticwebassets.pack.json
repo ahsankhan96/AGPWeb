@@ -1,248 +1,352 @@
 {
   "Files": [
     {
-      "Id": "D:\\AGPWeb\\AGPWeb\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\AGPWeb.bundle.scp.css",
+      "Id": "D:\\AGPWebClone\\AGPWeb\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\AGPWeb.bundle.scp.css",
       "PackagePath": "staticwebassets\\AGPWeb.bundle.scp.css"
     },
     {
-      "Id": "D:\\AGPWeb\\AGPWeb\\wwwroot\\css\\site.css",
-      "PackagePath": "staticwebassets\\css\\site.css"
+      "Id": "D:\\AGPWebClone\\AGPWeb\\wwwroot\\css\\bootstrap-datetimepicker.min.css",
+      "PackagePath": "staticwebassets\\css\\bootstrap-datetimepicker.min.css"
     },
     {
-      "Id": "D:\\AGPWeb\\AGPWeb\\wwwroot\\favicon.ico",
-      "PackagePath": "staticwebassets\\favicon.ico"
+      "Id": "D:\\AGPWebClone\\AGPWeb\\wwwroot\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\css\\bootstrap.min.css"
     },
     {
-      "Id": "D:\\AGPWeb\\AGPWeb\\wwwroot\\js\\site.js",
-      "PackagePath": "staticwebassets\\js\\site.js"
+      "Id": "D:\\AGPWebClone\\AGPWeb\\wwwroot\\css\\dataTables.bootstrap4.min.css",
+      "PackagePath": "staticwebassets\\css\\dataTables.bootstrap4.min.css"
     },
     {
-      "Id": "D:\\AGPWeb\\AGPWeb\\wwwroot\\lib\\bootstrap\\LICENSE",
-      "PackagePath": "staticwebassets\\lib\\bootstrap"
+      "Id": "D:\\AGPWebClone\\AGPWeb\\wwwroot\\css\\font-awesome.min.css",
+      "PackagePath": "staticwebassets\\css\\font-awesome.min.css"
     },
     {
-      "Id": "D:\\AGPWeb\\AGPWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
-      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css"
+      "Id": "D:\\AGPWebClone\\AGPWeb\\wwwroot\\css\\fullcalendar.min.css",
+      "PackagePath": "staticwebassets\\css\\fullcalendar.min.css"
     },
     {
-      "Id": "D:\\AGPWeb\\AGPWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
-      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map"
+      "Id": "D:\\AGPWebClone\\AGPWeb\\wwwroot\\css\\select2.min.css",
+      "PackagePath": "staticwebassets\\css\\select2.min.css"
     },
     {
-      "Id": "D:\\AGPWeb\\AGPWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
-      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css"
+      "Id": "D:\\AGPWebClone\\AGPWeb\\wwwroot\\css\\style.css",
+      "PackagePath": "staticwebassets\\css\\style.css"
     },
     {
-      "Id": "D:\\AGPWeb\\AGPWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
-      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map"
+      "Id": "D:\\AGPWebClone\\AGPWeb\\wwwroot\\css\\tagsinput.css",
+      "PackagePath": "staticwebassets\\css\\tagsinput.css"
     },
     {
-      "Id": "D:\\AGPWeb\\AGPWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
-      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css"
+      "Id": "D:\\AGPWebClone\\AGPWeb\\wwwroot\\fonts\\fontawesome-webfont3e6e.eot",
+      "PackagePath": "staticwebassets\\fonts\\fontawesome-webfont3e6e.eot"
     },
     {
-      "Id": "D:\\AGPWeb\\AGPWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
-      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map"
+      "Id": "D:\\AGPWebClone\\AGPWeb\\wwwroot\\fonts\\fontawesome-webfont3e6e.html",
+      "PackagePath": "staticwebassets\\fonts\\fontawesome-webfont3e6e.html"
     },
     {
-      "Id": "D:\\AGPWeb\\AGPWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
-      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css"
+      "Id": "D:\\AGPWebClone\\AGPWeb\\wwwroot\\fonts\\fontawesome-webfont3e6e.svg",
+      "PackagePath": "staticwebassets\\fonts\\fontawesome-webfont3e6e.svg"
     },
     {
-      "Id": "D:\\AGPWeb\\AGPWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
-      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map"
+      "Id": "D:\\AGPWebClone\\AGPWeb\\wwwroot\\fonts\\fontawesome-webfont3e6e.ttf",
+      "PackagePath": "staticwebassets\\fonts\\fontawesome-webfont3e6e.ttf"
     },
     {
-      "Id": "D:\\AGPWeb\\AGPWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
-      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css"
+      "Id": "D:\\AGPWebClone\\AGPWeb\\wwwroot\\fonts\\fontawesome-webfont3e6e.woff",
+      "PackagePath": "staticwebassets\\fonts\\fontawesome-webfont3e6e.woff"
     },
     {
-      "Id": "D:\\AGPWeb\\AGPWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
-      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map"
+      "Id": "D:\\AGPWebClone\\AGPWeb\\wwwroot\\fonts\\fontawesome-webfontd41d.eot",
+      "PackagePath": "staticwebassets\\fonts\\fontawesome-webfontd41d.eot"
     },
     {
-      "Id": "D:\\AGPWeb\\AGPWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
-      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css"
+      "Id": "D:\\AGPWebClone\\AGPWeb\\wwwroot\\img\\attachment.png",
+      "PackagePath": "staticwebassets\\img\\attachment.png"
     },
     {
-      "Id": "D:\\AGPWeb\\AGPWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
-      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map"
+      "Id": "D:\\AGPWebClone\\AGPWeb\\wwwroot\\img\\blog\\blog-01.jpg",
+      "PackagePath": "staticwebassets\\img\\blog\\blog-01.jpg"
     },
     {
-      "Id": "D:\\AGPWeb\\AGPWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
-      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css"
+      "Id": "D:\\AGPWebClone\\AGPWeb\\wwwroot\\img\\blog\\blog-02.jpg",
+      "PackagePath": "staticwebassets\\img\\blog\\blog-02.jpg"
     },
     {
-      "Id": "D:\\AGPWeb\\AGPWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
-      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map"
+      "Id": "D:\\AGPWebClone\\AGPWeb\\wwwroot\\img\\blog\\blog-03.jpg",
+      "PackagePath": "staticwebassets\\img\\blog\\blog-03.jpg"
     },
     {
-      "Id": "D:\\AGPWeb\\AGPWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
-      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css"
+      "Id": "D:\\AGPWebClone\\AGPWeb\\wwwroot\\img\\blog\\blog-04.jpg",
+      "PackagePath": "staticwebassets\\img\\blog\\blog-04.jpg"
     },
     {
-      "Id": "D:\\AGPWeb\\AGPWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
-      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map"
+      "Id": "D:\\AGPWebClone\\AGPWeb\\wwwroot\\img\\blog\\blog-thumb-01.jpg",
+      "PackagePath": "staticwebassets\\img\\blog\\blog-thumb-01.jpg"
     },
     {
-      "Id": "D:\\AGPWeb\\AGPWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
-      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css"
+      "Id": "D:\\AGPWebClone\\AGPWeb\\wwwroot\\img\\blog\\blog-thumb-02.jpg",
+      "PackagePath": "staticwebassets\\img\\blog\\blog-thumb-02.jpg"
     },
     {
-      "Id": "D:\\AGPWeb\\AGPWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
-      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map"
+      "Id": "D:\\AGPWebClone\\AGPWeb\\wwwroot\\img\\blog\\blog-thumb-03.jpg",
+      "PackagePath": "staticwebassets\\img\\blog\\blog-thumb-03.jpg"
     },
     {
-      "Id": "D:\\AGPWeb\\AGPWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
-      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css"
+      "Id": "D:\\AGPWebClone\\AGPWeb\\wwwroot\\img\\blog\\blog-thumb-04.jpg",
+      "PackagePath": "staticwebassets\\img\\blog\\blog-thumb-04.jpg"
     },
     {
-      "Id": "D:\\AGPWeb\\AGPWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
-      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map"
+      "Id": "D:\\AGPWebClone\\AGPWeb\\wwwroot\\img\\calander.png",
+      "PackagePath": "staticwebassets\\img\\calander.png"
     },
     {
-      "Id": "D:\\AGPWeb\\AGPWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
-      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css"
+      "Id": "D:\\AGPWebClone\\AGPWeb\\wwwroot\\img\\clock.png",
+      "PackagePath": "staticwebassets\\img\\clock.png"
     },
     {
-      "Id": "D:\\AGPWeb\\AGPWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
-      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map"
+      "Id": "D:\\AGPWebClone\\AGPWeb\\wwwroot\\img\\doctor-03.jpg",
+      "PackagePath": "staticwebassets\\img\\doctor-03.jpg"
     },
     {
-      "Id": "D:\\AGPWeb\\AGPWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
-      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css"
+      "Id": "D:\\AGPWebClone\\AGPWeb\\wwwroot\\img\\doctor-thumb-01.jpg",
+      "PackagePath": "staticwebassets\\img\\doctor-thumb-01.jpg"
     },
     {
-      "Id": "D:\\AGPWeb\\AGPWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
-      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map"
+      "Id": "D:\\AGPWebClone\\AGPWeb\\wwwroot\\img\\doctor-thumb-02.jpg",
+      "PackagePath": "staticwebassets\\img\\doctor-thumb-02.jpg"
     },
     {
-      "Id": "D:\\AGPWeb\\AGPWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
-      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css"
+      "Id": "D:\\AGPWebClone\\AGPWeb\\wwwroot\\img\\doctor-thumb-03.jpg",
+      "PackagePath": "staticwebassets\\img\\doctor-thumb-03.jpg"
     },
     {
-      "Id": "D:\\AGPWeb\\AGPWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
-      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css.map"
+      "Id": "D:\\AGPWebClone\\AGPWeb\\wwwroot\\img\\doctor-thumb-04.jpg",
+      "PackagePath": "staticwebassets\\img\\doctor-thumb-04.jpg"
     },
     {
-      "Id": "D:\\AGPWeb\\AGPWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
-      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css"
+      "Id": "D:\\AGPWebClone\\AGPWeb\\wwwroot\\img\\doctor-thumb-05.jpg",
+      "PackagePath": "staticwebassets\\img\\doctor-thumb-05.jpg"
     },
     {
-      "Id": "D:\\AGPWeb\\AGPWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
-      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map"
+      "Id": "D:\\AGPWebClone\\AGPWeb\\wwwroot\\img\\doctor-thumb-06.jpg",
+      "PackagePath": "staticwebassets\\img\\doctor-thumb-06.jpg"
     },
     {
-      "Id": "D:\\AGPWeb\\AGPWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
-      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css"
+      "Id": "D:\\AGPWebClone\\AGPWeb\\wwwroot\\img\\doctor-thumb-07.jpg",
+      "PackagePath": "staticwebassets\\img\\doctor-thumb-07.jpg"
     },
     {
-      "Id": "D:\\AGPWeb\\AGPWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
-      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map"
+      "Id": "D:\\AGPWebClone\\AGPWeb\\wwwroot\\img\\doctor-thumb-08.jpg",
+      "PackagePath": "staticwebassets\\img\\doctor-thumb-08.jpg"
     },
     {
-      "Id": "D:\\AGPWeb\\AGPWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
-      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css"
+      "Id": "D:\\AGPWebClone\\AGPWeb\\wwwroot\\img\\doctor-thumb-09.jpg",
+      "PackagePath": "staticwebassets\\img\\doctor-thumb-09.jpg"
     },
     {
-      "Id": "D:\\AGPWeb\\AGPWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
-      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map"
+      "Id": "D:\\AGPWebClone\\AGPWeb\\wwwroot\\img\\doctor-thumb-10.jpg",
+      "PackagePath": "staticwebassets\\img\\doctor-thumb-10.jpg"
     },
     {
-      "Id": "D:\\AGPWeb\\AGPWeb\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
-      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js"
+      "Id": "D:\\AGPWebClone\\AGPWeb\\wwwroot\\img\\doctor-thumb-11.jpg",
+      "PackagePath": "staticwebassets\\img\\doctor-thumb-11.jpg"
     },
     {
-      "Id": "D:\\AGPWeb\\AGPWeb\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
-      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map"
+      "Id": "D:\\AGPWebClone\\AGPWeb\\wwwroot\\img\\doctor-thumb-12.jpg",
+      "PackagePath": "staticwebassets\\img\\doctor-thumb-12.jpg"
     },
     {
-      "Id": "D:\\AGPWeb\\AGPWeb\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
-      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js"
+      "Id": "D:\\AGPWebClone\\AGPWeb\\wwwroot\\img\\favicon.ico",
+      "PackagePath": "staticwebassets\\img\\favicon.ico"
     },
     {
-      "Id": "D:\\AGPWeb\\AGPWeb\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
-      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map"
+      "Id": "D:\\AGPWebClone\\AGPWeb\\wwwroot\\img\\logo-dark.png",
+      "PackagePath": "staticwebassets\\img\\logo-dark.png"
     },
     {
-      "Id": "D:\\AGPWeb\\AGPWeb\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
-      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js"
+      "Id": "D:\\AGPWebClone\\AGPWeb\\wwwroot\\img\\logo.png",
+      "PackagePath": "staticwebassets\\img\\logo.png"
     },
     {
-      "Id": "D:\\AGPWeb\\AGPWeb\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
-      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map"
+      "Id": "D:\\AGPWebClone\\AGPWeb\\wwwroot\\img\\patient-thumb-01.jpg",
+      "PackagePath": "staticwebassets\\img\\patient-thumb-01.jpg"
     },
     {
-      "Id": "D:\\AGPWeb\\AGPWeb\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
-      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js"
+      "Id": "D:\\AGPWebClone\\AGPWeb\\wwwroot\\img\\patient-thumb-02.jpg",
+      "PackagePath": "staticwebassets\\img\\patient-thumb-02.jpg"
     },
     {
-      "Id": "D:\\AGPWeb\\AGPWeb\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
-      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map"
+      "Id": "D:\\AGPWebClone\\AGPWeb\\wwwroot\\img\\placeholder-thumb.jpg",
+      "PackagePath": "staticwebassets\\img\\placeholder-thumb.jpg"
     },
     {
-      "Id": "D:\\AGPWeb\\AGPWeb\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
-      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js"
+      "Id": "D:\\AGPWebClone\\AGPWeb\\wwwroot\\img\\placeholder.jpg",
+      "PackagePath": "staticwebassets\\img\\placeholder.jpg"
     },
     {
-      "Id": "D:\\AGPWeb\\AGPWeb\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
-      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js.map"
+      "Id": "D:\\AGPWebClone\\AGPWeb\\wwwroot\\img\\sent.png",
+      "PackagePath": "staticwebassets\\img\\sent.png"
     },
     {
-      "Id": "D:\\AGPWeb\\AGPWeb\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
-      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js"
+      "Id": "D:\\AGPWebClone\\AGPWeb\\wwwroot\\img\\user-02.jpg",
+      "PackagePath": "staticwebassets\\img\\user-02.jpg"
     },
     {
-      "Id": "D:\\AGPWeb\\AGPWeb\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
-      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map"
+      "Id": "D:\\AGPWebClone\\AGPWeb\\wwwroot\\img\\user-03.jpg",
+      "PackagePath": "staticwebassets\\img\\user-03.jpg"
     },
     {
-      "Id": "D:\\AGPWeb\\AGPWeb\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
-      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\LICENSE.txt"
+      "Id": "D:\\AGPWebClone\\AGPWeb\\wwwroot\\img\\user-04.jpg",
+      "PackagePath": "staticwebassets\\img\\user-04.jpg"
     },
     {
-      "Id": "D:\\AGPWeb\\AGPWeb\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
-      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js"
+      "Id": "D:\\AGPWebClone\\AGPWeb\\wwwroot\\img\\user-05.jpg",
+      "PackagePath": "staticwebassets\\img\\user-05.jpg"
     },
     {
-      "Id": "D:\\AGPWeb\\AGPWeb\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
-      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js"
+      "Id": "D:\\AGPWebClone\\AGPWeb\\wwwroot\\img\\user-06.jpg",
+      "PackagePath": "staticwebassets\\img\\user-06.jpg"
     },
     {
-      "Id": "D:\\AGPWeb\\AGPWeb\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
-      "PackagePath": "staticwebassets\\lib\\jquery-validation\\LICENSE.md"
+      "Id": "D:\\AGPWebClone\\AGPWeb\\wwwroot\\img\\user.jpg",
+      "PackagePath": "staticwebassets\\img\\user.jpg"
     },
     {
-      "Id": "D:\\AGPWeb\\AGPWeb\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
-      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.js"
+      "Id": "D:\\AGPWebClone\\AGPWeb\\wwwroot\\img\\video-call.jpg",
+      "PackagePath": "staticwebassets\\img\\video-call.jpg"
     },
     {
-      "Id": "D:\\AGPWeb\\AGPWeb\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
-      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.min.js"
+      "Id": "D:\\AGPWebClone\\AGPWeb\\wwwroot\\js\\Chart.bundle.js",
+      "PackagePath": "staticwebassets\\js\\Chart.bundle.js"
     },
     {
-      "Id": "D:\\AGPWeb\\AGPWeb\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
-      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.js"
+      "Id": "D:\\AGPWebClone\\AGPWeb\\wwwroot\\js\\app.js",
+      "PackagePath": "staticwebassets\\js\\app.js"
     },
     {
-      "Id": "D:\\AGPWeb\\AGPWeb\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
-      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.min.js"
+      "Id": "D:\\AGPWebClone\\AGPWeb\\wwwroot\\js\\bootstrap-datetimepicker.min.js",
+      "PackagePath": "staticwebassets\\js\\bootstrap-datetimepicker.min.js"
     },
     {
-      "Id": "D:\\AGPWeb\\AGPWeb\\wwwroot\\lib\\jquery\\LICENSE.txt",
-      "PackagePath": "staticwebassets\\lib\\jquery\\LICENSE.txt"
+      "Id": "D:\\AGPWebClone\\AGPWeb\\wwwroot\\js\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\js\\bootstrap.min.js"
     },
     {
-      "Id": "D:\\AGPWeb\\AGPWeb\\wwwroot\\lib\\jquery\\dist\\jquery.js",
-      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.js"
+      "Id": "D:\\AGPWebClone\\AGPWeb\\wwwroot\\js\\chart.js",
+      "PackagePath": "staticwebassets\\js\\chart.js"
     },
     {
-      "Id": "D:\\AGPWeb\\AGPWeb\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
-      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.js"
+      "Id": "D:\\AGPWebClone\\AGPWeb\\wwwroot\\js\\dataTables.bootstrap4.min.js",
+      "PackagePath": "staticwebassets\\js\\dataTables.bootstrap4.min.js"
     },
     {
-      "Id": "D:\\AGPWeb\\AGPWeb\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
-      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.map"
+      "Id": "D:\\AGPWebClone\\AGPWeb\\wwwroot\\js\\fullcalendar.min.js",
+      "PackagePath": "staticwebassets\\js\\fullcalendar.min.js"
+    },
+    {
+      "Id": "D:\\AGPWebClone\\AGPWeb\\wwwroot\\js\\jquery-3.2.1.min.js",
+      "PackagePath": "staticwebassets\\js\\jquery-3.2.1.min.js"
+    },
+    {
+      "Id": "D:\\AGPWebClone\\AGPWeb\\wwwroot\\js\\jquery-ui.min.html",
+      "PackagePath": "staticwebassets\\js\\jquery-ui.min.html"
+    },
+    {
+      "Id": "D:\\AGPWebClone\\AGPWeb\\wwwroot\\js\\jquery.dataTables.min.js",
+      "PackagePath": "staticwebassets\\js\\jquery.dataTables.min.js"
+    },
+    {
+      "Id": "D:\\AGPWebClone\\AGPWeb\\wwwroot\\js\\jquery.fullcalendar.js",
+      "PackagePath": "staticwebassets\\js\\jquery.fullcalendar.js"
+    },
+    {
+      "Id": "D:\\AGPWebClone\\AGPWeb\\wwwroot\\js\\jquery.slimscroll.js",
+      "PackagePath": "staticwebassets\\js\\jquery.slimscroll.js"
+    },
+    {
+      "Id": "D:\\AGPWebClone\\AGPWeb\\wwwroot\\js\\moment.min.js",
+      "PackagePath": "staticwebassets\\js\\moment.min.js"
+    },
+    {
+      "Id": "D:\\AGPWebClone\\AGPWeb\\wwwroot\\js\\popper.min.js",
+      "PackagePath": "staticwebassets\\js\\popper.min.js"
+    },
+    {
+      "Id": "D:\\AGPWebClone\\AGPWeb\\wwwroot\\js\\select2.min.js",
+      "PackagePath": "staticwebassets\\js\\select2.min.js"
+    },
+    {
+      "Id": "D:\\AGPWebClone\\AGPWeb\\wwwroot\\js\\tagsinput.js",
+      "PackagePath": "staticwebassets\\js\\tagsinput.js"
+    },
+    {
+      "Id": "D:\\AGPWebClone\\AGPWeb\\wwwroot\\plugins\\light-gallery\\css\\lightgallery.min.css",
+      "PackagePath": "staticwebassets\\plugins\\light-gallery\\css\\lightgallery.min.css"
+    },
+    {
+      "Id": "D:\\AGPWebClone\\AGPWeb\\wwwroot\\plugins\\light-gallery\\fonts\\lgd41d.eot",
+      "PackagePath": "staticwebassets\\plugins\\light-gallery\\fonts\\lgd41d.eot"
+    },
+    {
+      "Id": "D:\\AGPWebClone\\AGPWeb\\wwwroot\\plugins\\light-gallery\\fonts\\lgd641.eot",
+      "PackagePath": "staticwebassets\\plugins\\light-gallery\\fonts\\lgd641.eot"
+    },
+    {
+      "Id": "D:\\AGPWebClone\\AGPWeb\\wwwroot\\plugins\\light-gallery\\fonts\\lgd641.svg",
+      "PackagePath": "staticwebassets\\plugins\\light-gallery\\fonts\\lgd641.svg"
+    },
+    {
+      "Id": "D:\\AGPWebClone\\AGPWeb\\wwwroot\\plugins\\light-gallery\\fonts\\lgd641.ttf",
+      "PackagePath": "staticwebassets\\plugins\\light-gallery\\fonts\\lgd641.ttf"
+    },
+    {
+      "Id": "D:\\AGPWebClone\\AGPWeb\\wwwroot\\plugins\\light-gallery\\fonts\\lgd641.woff",
+      "PackagePath": "staticwebassets\\plugins\\light-gallery\\fonts\\lgd641.woff"
+    },
+    {
+      "Id": "D:\\AGPWebClone\\AGPWeb\\wwwroot\\plugins\\light-gallery\\img\\loading.gif",
+      "PackagePath": "staticwebassets\\plugins\\light-gallery\\img\\loading.gif"
+    },
+    {
+      "Id": "D:\\AGPWebClone\\AGPWeb\\wwwroot\\plugins\\light-gallery\\img\\video-play.png",
+      "PackagePath": "staticwebassets\\plugins\\light-gallery\\img\\video-play.png"
+    },
+    {
+      "Id": "D:\\AGPWebClone\\AGPWeb\\wwwroot\\plugins\\light-gallery\\img\\vimeo-play.png",
+      "PackagePath": "staticwebassets\\plugins\\light-gallery\\img\\vimeo-play.png"
+    },
+    {
+      "Id": "D:\\AGPWebClone\\AGPWeb\\wwwroot\\plugins\\light-gallery\\img\\youtube-play.png",
+      "PackagePath": "staticwebassets\\plugins\\light-gallery\\img\\youtube-play.png"
+    },
+    {
+      "Id": "D:\\AGPWebClone\\AGPWeb\\wwwroot\\plugins\\light-gallery\\js\\lightgallery-all.min.js",
+      "PackagePath": "staticwebassets\\plugins\\light-gallery\\js\\lightgallery-all.min.js"
+    },
+    {
+      "Id": "D:\\AGPWebClone\\AGPWeb\\wwwroot\\plugins\\summernote\\dist\\font\\summernote4c4d.eot",
+      "PackagePath": "staticwebassets\\plugins\\summernote\\dist\\font\\summernote4c4d.eot"
+    },
+    {
+      "Id": "D:\\AGPWebClone\\AGPWeb\\wwwroot\\plugins\\summernote\\dist\\font\\summernote4c4d.ttf",
+      "PackagePath": "staticwebassets\\plugins\\summernote\\dist\\font\\summernote4c4d.ttf"
+    },
+    {
+      "Id": "D:\\AGPWebClone\\AGPWeb\\wwwroot\\plugins\\summernote\\dist\\font\\summernote4c4d.woff",
+      "PackagePath": "staticwebassets\\plugins\\summernote\\dist\\font\\summernote4c4d.woff"
+    },
+    {
+      "Id": "D:\\AGPWebClone\\AGPWeb\\wwwroot\\plugins\\summernote\\dist\\font\\summernoted41d.eot",
+      "PackagePath": "staticwebassets\\plugins\\summernote\\dist\\font\\summernoted41d.eot"
+    },
+    {
+      "Id": "D:\\AGPWebClone\\AGPWeb\\wwwroot\\plugins\\summernote\\dist\\summernote-bs4.css",
+      "PackagePath": "staticwebassets\\plugins\\summernote\\dist\\summernote-bs4.css"
+    },
+    {
+      "Id": "D:\\AGPWebClone\\AGPWeb\\wwwroot\\plugins\\summernote\\dist\\summernote-bs4.min.js",
+      "PackagePath": "staticwebassets\\plugins\\summernote\\dist\\summernote-bs4.min.js"
     },
     {
       "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.AGPWeb.Microsoft.AspNetCore.StaticWebAssets.props",

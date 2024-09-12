@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("AGPWeb")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+23eb0db3ae74d1e379e45e0dac3f99821f9ce4b9")]
 [assembly: System.Reflection.AssemblyProductAttribute("AGPWeb")]
 [assembly: System.Reflection.AssemblyTitleAttribute("AGPWeb")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

@@ -18,5 +18,13 @@ namespace AGPWeb.Controllers
         {
             return View();
         }
-    }
+        public IActionResult Company()
+        {
+            return View();
+        }
+		public IActionResult AddCompany()
+		{
+			return View();
+		}
+	}
 }

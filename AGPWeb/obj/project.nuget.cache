@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "oK3qKp1PVjY=",
+  "dgSpecHash": "e9H9JgiJhJY=",
   "success": true,
-  "projectFilePath": "D:\\AGPWeb\\AGPWeb\\AGPWeb.csproj",
+  "projectFilePath": "D:\\AGPWebClone\\AGPWeb\\AGPWeb.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\ABC\\.nuget\\packages\\azure.core\\1.35.0\\azure.core.1.35.0.nupkg.sha512",
     "C:\\Users\\ABC\\.nuget\\packages\\azure.identity\\1.10.3\\azure.identity.1.10.3.nupkg.sha512",

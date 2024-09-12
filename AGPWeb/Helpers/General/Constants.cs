@@ -17,11 +17,9 @@
 
     }
     public enum UserStatusEnum
-    {
-        Pending_Approval,
-        Rejected,
-        Active,
-        UnActive
+    {        
+        Active=1,
+        UnActive=2
     }
     public enum RoleEnum
     {

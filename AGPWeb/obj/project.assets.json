@@ -4155,11 +4155,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\AGPWeb\\AGPWeb\\AGPWeb.csproj",
+      "projectUniqueName": "D:\\AGPWebClone\\AGPWeb\\AGPWeb.csproj",
       "projectName": "AGPWeb",
-      "projectPath": "D:\\AGPWeb\\AGPWeb\\AGPWeb.csproj",
+      "projectPath": "D:\\AGPWebClone\\AGPWeb\\AGPWeb.csproj",
       "packagesPath": "C:\\Users\\ABC\\.nuget\\packages\\",
-      "outputPath": "D:\\AGPWeb\\AGPWeb\\obj\\",
+      "outputPath": "D:\\AGPWebClone\\AGPWeb\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\ABC\\AppData\\Roaming\\NuGet\\NuGet.Config",

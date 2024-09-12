@@ -126,7 +126,7 @@ namespace AGPWeb
             {
                 endpoints.MapControllerRoute(
                     name: "default",
-                    pattern: "{controller=Home}/{action=Index}");
+                    pattern: "{controller=Home}/{action=Login}");
                 endpoints.MapControllers();
             });
 

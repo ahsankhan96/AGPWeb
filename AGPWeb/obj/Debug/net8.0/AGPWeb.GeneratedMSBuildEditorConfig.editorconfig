@@ -9,19 +9,35 @@ build_property.EnforceExtendedAnalyzerRules =
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = AGPWeb
 build_property.RootNamespace = AGPWeb
-build_property.ProjectDir = D:\AGPWeb\AGPWeb\
+build_property.ProjectDir = D:\AGPWebClone\AGPWeb\
 build_property.EnableComHosting = 
 build_property.EnableGeneratedComInterfaceComImportInterop = 
 build_property.RazorLangVersion = 8.0
 build_property.SupportLocalizedComponentNames = 
 build_property.GenerateRazorMetadataSourceChecksumAttributes = 
-build_property.MSBuildProjectDirectory = D:\AGPWeb\AGPWeb
+build_property.MSBuildProjectDirectory = D:\AGPWebClone\AGPWeb
 build_property._RazorSourceGeneratorDebug = 
 
-[D:/AGPWeb/AGPWeb/Views/Home/Index.cshtml]
+[D:/AGPWebClone/AGPWeb/Views/CMS/AddCompany.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ01TXEFkZENvbXBhbnkuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/AGPWebClone/AGPWeb/Views/CMS/Company.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ01TXENvbXBhbnkuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/AGPWebClone/AGPWeb/Views/CMS/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ01TXEluZGV4LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/AGPWebClone/AGPWeb/Views/Home/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/AGPWeb/AGPWeb/Views/Shared/_Layout.cshtml]
+[D:/AGPWebClone/AGPWeb/Views/Home/Login.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxMb2dpbi5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/AGPWebClone/AGPWeb/Views/Shared/_Layout.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MYXlvdXQuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = b-refixhd4ao
